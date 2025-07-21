@@ -1,5 +1,5 @@
 # Hi I'm Subham
-🌱 I’m currently learning C++ or some other language<br>
+🌱 I’m currently learning Artificial Intelligence and Computer Vision<br>
 🤖 I'm currently working on Robotics
 
 📫 How to reach me <a href="subhamkumarbetal2010@gmail.com">subhamkumarbetal2010@gmail.com</a>
