@@ -2,8 +2,6 @@
 🌱 I’m currently learning Artificial Intelligence and Computer Vision<br>
 🤖 I'm currently working on Robotics
 
-📫 How to reach me <a href="subhamkumarbetal2010@gmail.com">subhamkumarbetal2010@gmail.com</a>
-
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PynRobotics2010) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhamkumarbetal2010@gmail.com) 
 
